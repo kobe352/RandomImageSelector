@@ -1,1 +1,1 @@
-# kobe352.github.io
+# kobe352.github.io/RandomImageSelector/
